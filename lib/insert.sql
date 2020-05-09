@@ -1,0 +1,65 @@
+
+INSERT INTO projects VALUES (1, "Project 1", "Cat 1", 100, 0301, 0401);
+INSERT INTO projects VALUES (2, "Project 2", "Cat 2", 100, 0302, 0402);
+INSERT INTO projects VALUES (3, "Project 3", "Cat 3", 100, 0303, 0403);
+INSERT INTO projects VALUES (4, "Project 4", "Cat 4", 100, 0304, 0404);
+INSERT INTO projects VALUES (5, "Project 5", "Cat 5", 100, 0305, 0405);
+INSERT INTO projects VALUES (6, "Project 6", "Cat 6", 100, 0306, 0406);
+INSERT INTO projects VALUES (7, "Project 7", "Cat 7", 100, 0307, 0407);
+INSERT INTO projects VALUES (8, "Project 8", "Cat 8", 100, 0308, 0408);
+INSERT INTO projects VALUES (9, "Project 9", "Cat 9", 100, 0309, 0409);
+INSERT INTO projects VALUES (10, "Project 10", "Cat 10", 100, 0301, 0401);
+
+
+INSERT INTO users VALUES (1, "Bill", 21);
+INSERT INTO users VALUES (2, "Liam", 22);
+INSERT INTO users VALUES (3, "Noah", 23);
+INSERT INTO users VALUES (4, "William", 24);
+INSERT INTO users VALUES (5, "James", 25);
+INSERT INTO users VALUES (6, "Oliver", 26);
+INSERT INTO users VALUES (7, "Benjamin", 7);
+INSERT INTO users VALUES (8, "Elijah", 28);
+INSERT INTO users VALUES (9, "Lucas", 9);
+INSERT INTO users VALUES (10, "Mason", 210);
+INSERT INTO users VALUES (11, "Logan", 211);
+INSERT INTO users VALUES (12, "Emma", 212);
+INSERT INTO users VALUES (13, "Olivia", 213);
+INSERT INTO users VALUES (14, "Ava", 214);
+INSERT INTO users VALUES (15, "Isabella", 215);
+INSERT INTO users VALUES (16, "Sophia", 216);
+INSERT INTO users VALUES (17, "Bill", 217);
+INSERT INTO users VALUES (18, "Charlotte", 218);
+INSERT INTO users VALUES (19, "Amelia", 219);
+INSERT INTO users VALUES (20, "Harper", 220);
+
+
+INSERT INTO pledges VALUES (1, "Pledge 1", 1, 1, 1);
+INSERT INTO pledges VALUES (2, "Pledge 2", 1, 1, 1);
+INSERT INTO pledges VALUES (3, "Pledge 3", 1, 1, 1);
+INSERT INTO pledges VALUES (4, "Pledge 4", 1, 1, 1);
+INSERT INTO pledges VALUES (5, "Pledge 5", 1, 1, 1);
+INSERT INTO pledges VALUES (6, "Pledge 6", 1, 1, 1);
+INSERT INTO pledges VALUES (7, "Pledge 7", 1, 1, 1);
+INSERT INTO pledges VALUES (8, "Pledge 8", 1, 1, 1);
+INSERT INTO pledges VALUES (9, "Pledge 9", 1, 1, 1);
+INSERT INTO pledges VALUES (10, "Pledge 10", 1, 1, 1);
+INSERT INTO pledges VALUES (11, "Pledge 11", 1, 1, 1);
+INSERT INTO pledges VALUES (12, "Pledge 12", 1, 1, 1);
+INSERT INTO pledges VALUES (13, "Pledge 13", 1, 1, 1);
+INSERT INTO pledges VALUES (14, "Pledge 14", 1, 1, 1);
+INSERT INTO pledges VALUES (15, "Pledge 15", 1, 1, 1);
+INSERT INTO pledges VALUES (16, "Pledge 16", 1, 1, 1);
+INSERT INTO pledges VALUES (17, "Pledge 17", 1, 1, 1);
+INSERT INTO pledges VALUES (18, "Pledge 18", 1, 1, 1);
+INSERT INTO pledges VALUES (19, "Pledge 19", 1, 1, 1);
+INSERT INTO pledges VALUES (20, "Pledge 20", 1, 1, 1);
+INSERT INTO pledges VALUES (21, "Pledge 21", 1, 1, 1);
+INSERT INTO pledges VALUES (22, "Pledge 22", 1, 1, 1);
+INSERT INTO pledges VALUES (23, "Pledge 23", 1, 1, 1);
+INSERT INTO pledges VALUES (24, "Pledge 24", 1, 1, 1);
+INSERT INTO pledges VALUES (25, "Pledge 25", 1, 1, 1);
+INSERT INTO pledges VALUES (26, "Pledge 26", 1, 1, 1);
+INSERT INTO pledges VALUES (27, "Pledge 27", 1, 1, 1);
+INSERT INTO pledges VALUES (28, "Pledge 28", 1, 1, 1);
+INSERT INTO pledges VALUES (29, "Pledge 29", 1, 1, 1);
+INSERT INTO pledges VALUES (30, "Pledge 30", 1, 1, 1);
